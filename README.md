@@ -1,7 +1,7 @@
-# Symfonyの歩き方
+# Symfony Meetup #7 LT資料
 
-Symfony Meetup #7
+2015/12/14
 
-「Symfonyの歩き方」スライド
+## 「Symfonyの歩き方」スライド
 
 http://okapon.github.io/how-to-walk-symfony/
